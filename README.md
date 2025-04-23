@@ -5,7 +5,7 @@ Repo for manage infra.
 ![EKS- GitHub Actions- Terraform](assets/Presentation1.gif)
 
 
-Welcome to the repository for **Configuring Production-Ready EKS Clusters with Terraform and Automating with Jenkins**! This repository accompanies my blog post and demonstrates the practical steps to set up and automate an EKS cluster.
+Welcome to the repository for **Configuring Production-Ready EKS Clusters with Terraform and Automating with Jenkins**! 
 
 ## 🌟 Overview
 This project covers:
